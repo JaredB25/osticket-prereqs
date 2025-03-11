@@ -59,11 +59,12 @@ Next, use Remote Desktop Protocol (RDP) to access the virtual machine.  To creat
 
 
 <p>
-<img src="https://i.imgur.com/jdy6kVT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="385" alt="Image" src="https://github.com/user-attachments/assets/f192d391-393b-4e78-b353-435ee2f7d065" />
 </p>
 <p>
-https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD Next, use the provided download link to obtain all the necessary files to install and launch osTicket.  
-From the osTicket Installation folder, locate and install PHP Manager to proceed with the setup.
+  Next, we will use This Link - https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0
+to obtain all the necessary files to install and launch osTicket.  
+To continue with the setup, find and install PHP Manager in the osTicket Installation folder.
 </p>
 <br />
 
