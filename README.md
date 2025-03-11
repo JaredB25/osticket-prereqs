@@ -41,10 +41,11 @@ Next, use Remote Desktop Protocol (RDP) to access the virtual machine.  To creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/2VqhhFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="345" alt="Image" src="https://github.com/user-attachments/assets/623cad41-fc23-474d-aa42-a80448953c45" />
 </p>
 <p>
-Once connected to the VM, enable IIS by opening the Control Panel and navigating to Turn Windows Features On or Off. Scroll down to locate Internet Information Services (IIS) and select the checkbox to activate it.
+  After connecting to the virtual machine, click the Control Panel and select Turn Windows Features On or Off to activate IIS.  Locate Internet Information Services (IIS) by scrolling down, then click the checkbox to turn it on.
 </p>
 <br />
 
