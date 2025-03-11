@@ -25,11 +25,11 @@ This tutorial covers the setup process process for the open-source help desk tic
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Iu8EC4s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  First Lets start by creating the virtual machine in Azure.
+<img width="746" alt="Image" src="https://github.com/user-attachments/assets/52d05515-90fc-40df-beb5-bf793a873be7" />
 </p>
 <p>
-Create a resource group in Microsoft Azure named osTicket. Then create a virtual machine within this resource group. Use a Windows 10 Pro image for the VM, ensuring it has at least 2 vCPUs. The VM will serve as a space for practice.
-</p>
+To begin this process, we first create a resource group called osTicket in Microsoft Azure.  Then, inside this resource group, establish a virtual machine.  We will make sure the virtual machine (VM) has at least two virtual CPUs and runs a Windows 10 Pro image.  OsTicket will be installed and utilized in this virtual machine.
 <br />
 
 <p>
