@@ -33,10 +33,10 @@ To begin this process, we first create a resource group called osTicket in Micro
 <br />
 
 <p>
-<img src="https://i.imgur.com/H2B3g7x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="200" alt="Image" src="https://github.com/user-attachments/assets/7e9bacd5-1801-4a3b-bc88-488696cc4967" />
 </p>
 <p>
-Next, access the VM via Remote Desktop Protocol (RDP). Copy the Public IPv4 address listed in the Azure portal for the VM and use it to establish the RDP connection.
+Next, use Remote Desktop Protocol (RDP) to access the virtual machine.  To create the RDP connection, copy the Public IPv4 address for the virtual machine that appears in the Azure site. Enter the lab user credentials that were set up during the virtual machine's setup.
 </p>
 <br />
 
