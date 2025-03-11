@@ -86,10 +86,10 @@ Create a new folder on the C drive, name the new folder "PHP"; the directory sho
 <br />
 
 <p>
-<img src="https://i.imgur.com/vnapOUJ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="362" alt="Image" src="https://github.com/user-attachments/assets/93dc21a1-eeb4-4afe-a7fd-52dcfed89c2f" />
 </p>
 <p>
-Install VC_redist.x86.exe from the osTicket Installation folder to ensure the necessary Visual C++ Redistributable components are in place.
+To make sure the required Visual C++ Redistributable components are present, we must then install VC_redist.x86.exe from the osTicket Installation folder.
 </p>
 <br />
 
