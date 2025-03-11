@@ -77,11 +77,11 @@ Next locate and install the IIS URL Rewrite Module by navigating to the same fol
 <br />
 
 <p>
-<img src="https://i.imgur.com/3G7QEou.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/BJ7pQXn.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="457" alt="Image" src="https://github.com/user-attachments/assets/3b1754c4-4ef7-42da-962a-5c56b5936b6c" />
+<img width="464" alt="Image" src="https://github.com/user-attachments/assets/c0f853c8-0b21-4410-944d-c338b5392c60" />
 </p>
 <p>
-Create the directory C:\PHP. Unzip the file PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and extract all its contents into the C:\PHP directory.
+Create a new folder on the C drive, name the new folder "PHP"; the directory should be C:\PHP.  After that, extract all of the contents from the PHP 7.3.8 file (php-7.3.8-nts-Win32-VC15-x86.zip) and place it in the C:\PHP directory.
 </p>
 <br />
 
