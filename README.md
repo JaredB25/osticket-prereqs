@@ -45,9 +45,18 @@ Next, use Remote Desktop Protocol (RDP) to access the virtual machine.  To creat
 <img width="345" alt="Image" src="https://github.com/user-attachments/assets/623cad41-fc23-474d-aa42-a80448953c45" />
 </p>
 <p>
-  After connecting to the virtual machine, click the Control Panel and select Turn Windows Features On or Off to activate IIS.  Locate Internet Information Services (IIS) by scrolling down, then click the checkbox to turn it on.
+  After connecting to the virtual machine, click the Control Panel and select Turn Windows Features On or Off to activate IIS.  Locate Internet Information Services (IIS) by scrolling down, then click the checkbox to activate the service.
 </p>
 <br />
+
+<p>
+<img width="345" alt="Image" src="https://github.com/user-attachments/assets/556096ea-6273-4065-8850-e335ce6e9293" />
+</p>
+<p>
+  Open the tab for Internet information services.  Expand the World Wide Web Services tab after scrolling to it.  Locate and expand the application development features tab.  Scroll down to the CGI tab, then select the checkbox to activate the service.  
+</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/jdy6kVT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
