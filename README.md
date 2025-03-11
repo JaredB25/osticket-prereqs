@@ -94,15 +94,19 @@ To make sure the required Visual C++ Redistributable components are present, we 
 <br />
 
 <p>
-<img src="https://i.imgur.com/6Ni4PkJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="383" alt="Image" src="https://github.com/user-attachments/assets/783f5224-c571-440b-81aa-e9aff07fa15c" />
+  
+<img width="371" alt="Image" src="https://github.com/user-attachments/assets/d60b626f-9dc5-4fac-98ee-06c978dad18f" />
+
+<img width="371" alt="Image" src="https://github.com/user-attachments/assets/efd83c7e-d16b-44ca-9501-3d2a5c9b542b" />
 </p>
 <p>
-Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the osTicket Installation folder to set up the MySQL database server.
+The MySQL 5.5.62 will then be installed from the osTicket Installation folder. The MySQL instance configuration wizard will start running after it has finished installing, and we will proceed with the standard installation options.  Following that, we will generate a new root password by clicking the "modify security setting options" box. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/HFBKqHa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="415" alt="Image" src="https://github.com/user-attachments/assets/4f47735f-a21d-41c7-9740-9d863d6c96a3" />
 </p>
 <p>
 Open IIS Manager as an administrator. Register PHP within IIS by configuring the necessary settings. Afterward, restart the server by selecting Restart in the IIS Manager.
