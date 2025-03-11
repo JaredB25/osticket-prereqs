@@ -69,10 +69,10 @@ To continue with the setup, find and install PHP Manager in the osTicket Install
 <br />
 
 <p>
-<img src="https://i.imgur.com/BraQ2Sp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="382" alt="Image" src="https://github.com/user-attachments/assets/a6cce174-506f-41ee-a830-005850c25d5c" />
 </p>
 <p>
-Within the same folder, install the Rewrite Module to continue configuring the environment.
+Next locate and install the IIS URL Rewrite Module by navigating to the same folder to proceed with the configuration.
 </p>
 <br />
 
