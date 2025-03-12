@@ -152,7 +152,7 @@ Right-click the file and choose Properties to give ost-config.php the proper rig
 <img width="306" alt="Image" src="https://github.com/user-attachments/assets/5e75fa4c-bb09-4489-b0b0-24439447ddbb" />
 </p>
 <p>
-Next, click Continue to continue setting up osTicket in your browser.  To receive notifications when a customer submits a ticket, choose a default email address and give your helpdesk whatever name you choose. 
+Next, click continue to continue setting up osTicket in your browser.  To receive notifications when a customer submits a ticket, choose a default email address and give your helpdesk whatever name you choose. 
 </p>
 <br />
 
