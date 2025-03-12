@@ -107,22 +107,25 @@ The MySQL 5.5.62 will then be installed from the osTicket Installation folder. T
 
 <p>
 <img width="415" alt="Image" src="https://github.com/user-attachments/assets/4f47735f-a21d-41c7-9740-9d863d6c96a3" />
+
+![Image](https://github.com/user-attachments/assets/a4647320-5f7f-4b11-9cf7-b07a8cb2709c)
+  
 </p>
 <p>
-Open IIS Manager as an administrator. Register PHP within IIS by configuring the necessary settings. Afterward, restart the server by selecting Restart in the IIS Manager.
+Next, as an administrator, launch IIS Manager.  We will configure the required parameters and register PHP under IIS. To acomplish this we will select the path to the php excecutable file as "C:\PHP\php-cgi.exe". After that, choose Restart in the IIS Manager to restart the server.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/dUEDOI2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="593" alt="Image" src="https://github.com/user-attachments/assets/3cf862cd-fe9e-4c7d-8a21-ff5131d738bc" />
 </p>
 <p>
-From the osTicket-Installation-Files folder, unzip osTicket-v1.15.8.zip and copy the upload folder to C:\inetpub\wwwroot. Then, within C:\inetpub\wwwroot, rename the upload folder to osTicket.
+Unzip osTicket-v1.15.8.zip from the osTicket-Installation-Files folder, then move the upload folder to C:\inetpub\wwwroot.  Next, rename the upload folder to osTicket inside C:\inetpub\wwwroot.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/ofoOo0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="473" alt="Image" src="https://github.com/user-attachments/assets/bce13b79-ddd4-4f56-b512-ee0bb449a3ea" />
 </p>
 <p>
 Return to IIS Manager and restart the server. Enable the necessary PHP extensions by navigating to Sites -> Default -> osTicket, then double-click PHP Manager. Select "Disable or enable an extension" and enable php_intl.dll, php_opcache.dll, and php_imap.dll. Afterward, refresh the osTicket web server and verify that the Intl Extension is now enabled.
@@ -130,7 +133,7 @@ Return to IIS Manager and restart the server. Enable the necessary PHP extension
 <br />
 
 <p>
-<img src="https://i.imgur.com/JEdBG6b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="593" alt="Image" src="https://github.com/user-attachments/assets/09303baf-31b0-4253-9860-8ea88013616a" />
 </p>
 <p>
 Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the file to ost-config.php in the same directory (C:\inetpub\wwwroot\osTicket\include).
