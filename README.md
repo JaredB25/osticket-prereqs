@@ -161,7 +161,7 @@ Finally, proceed with the osTicket setup in your browser by clicking Continue. A
 </p>
 <p>
 
-In order to properly finish the confguration we must install HediSQL
+In order to properly finish the database confguration we must first navigate to the osTicket-Installation-Files” folder to install HediSQL.
 </p>
 <br />
 
@@ -171,7 +171,7 @@ In order to properly finish the confguration we must install HediSQL
 </p>
 <p>
 
-Finally, test 2
+Once properly instlled we will create a new seesion using the root credirntils we configured previously and connect to it. afterwards we will create a new database called 'osTicket'.
 </p>
 <br />
 
