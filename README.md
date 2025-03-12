@@ -171,7 +171,7 @@ In order to properly finish the database confguration we must first navigate to 
 </p>
 <p>
 
-Once properly instlled we will create a new seesion using the root credirntils we configured previously and connect to it. afterwards we will create a new database called 'osTicket'.
+Once properly instlled we will create a new seesion using the HediSQL application and connect to it. Afterwards we will create a new database called 'osTicket'.
 </p>
 <br />
 
@@ -180,7 +180,7 @@ Once properly instlled we will create a new seesion using the root credirntils w
 </p>
 <p>
 
-Finally, test 3
+We can now go back to the osTicket set up page in the browser and enter the required information for MySQL database.
 </p>
 <br />
 
@@ -189,7 +189,7 @@ Finally, test 3
 </p>
 <p>
 
-Finally, test 4
+With all the setup now complete we have succsesfully installed osTicket with no errors. 
 </p>
 <br />
 
@@ -198,6 +198,6 @@ Finally, test 4
 </p>
 <p>
 
-Finally, test 5
+As a final check we will borse to the help dess login page at 'http://localhost/osTicket/scp/login.php'. Once we login the page will display this message with
 </p>
 <br />
