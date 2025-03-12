@@ -128,7 +128,7 @@ Unzip osTicket-v1.15.8.zip from the osTicket-Installation-Files folder, then mov
 <img width="473" alt="Image" src="https://github.com/user-attachments/assets/bce13b79-ddd4-4f56-b512-ee0bb449a3ea" />
 </p>
 <p>
-Return to IIS Manager and restart the server. Enable the necessary PHP extensions by navigating to Sites -> Default -> osTicket, then double-click PHP Manager. Select "Disable or enable an extension" and enable php_intl.dll, php_opcache.dll, and php_imap.dll. Afterward, refresh the osTicket web server and verify that the Intl Extension is now enabled.
+Restart the server by going back to IIS Manager.  Double-click PHP Manager after selecting Sites -> Default -> osTicket to enable the required PHP extensions.  Choose "Disable or enable an extension" and turn on php_opcache.dll, php_imap.dll, and php_intl.dll.  After that, make sure the International Extension is now enabled by refreshing the osTicket web server.
 </p>
 <br />
 
@@ -136,7 +136,7 @@ Return to IIS Manager and restart the server. Enable the necessary PHP extension
 <img width="593" alt="Image" src="https://github.com/user-attachments/assets/09303baf-31b0-4253-9860-8ea88013616a" />
 </p>
 <p>
-Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the file to ost-config.php in the same directory (C:\inetpub\wwwroot\osTicket\include).
+Rename the file to ost-config.php in the same directory (C:\inetpub\wwwroot\osTicket\include) after navigating to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
 </p>
 <br />
 
@@ -144,7 +144,7 @@ Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/195221381/421403298-8393fd78-795a-446a-84f2-9016d32e68c7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250312T135522Z&X-Amz-Expires=300&X-Amz-Signature=33134198c84ab018740b0a70631b16bc4b79f1024498bcf09085bd463afdc678&X-Amz-SignedHeaders=host"/>
 </p>
 <p>
-Assign the appropriate permissions to ost-config.php by right-clicking the file and selecting Properties. In the Security tab, disable inheritance, remove all existing permissions, and grant Everyone full access.
+Right-click the file and choose Properties to give ost-config.php the proper rights.  Disable inheritance, erase all current permissions, and give everyone complete access under the Security tab.
 </p>
 <br />
 
