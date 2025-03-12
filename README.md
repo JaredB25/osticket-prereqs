@@ -141,7 +141,7 @@ Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename 
 <br />
 
 <p>
-<img src="https://i.imgur.com/vFIs9DL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/195221381/421403298-8393fd78-795a-446a-84f2-9016d32e68c7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250312T135522Z&X-Amz-Expires=300&X-Amz-Signature=33134198c84ab018740b0a70631b16bc4b79f1024498bcf09085bd463afdc678&X-Amz-SignedHeaders=host"/>
 </p>
 <p>
 Assign the appropriate permissions to ost-config.php by right-clicking the file and selecting Properties. In the Security tab, disable inheritance, remove all existing permissions, and grant Everyone full access.
@@ -149,9 +149,55 @@ Assign the appropriate permissions to ost-config.php by right-clicking the file 
 <br />
 
 <p>
-<img src="https://i.imgur.com/HZnNtf2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="306" alt="Image" src="https://github.com/user-attachments/assets/5e75fa4c-bb09-4489-b0b0-24439447ddbb" />
 </p>
 <p>
-Finally, proceed with the osTicket setup in your browser by clicking Continue. Assign a name to your helpdesk as desired, and select a default email address to receive customer-submitted ticket notifications. Congrats! 
+Finally, proceed with the osTicket setup in your browser by clicking Continue. Assign a name to your helpdesk as desired, and select a default email address to receive customer-submitted ticket notifications. 
+</p>
+<br />
+
+<p>
+<img width="445" alt="Image" src="https://github.com/user-attachments/assets/a70d31ed-e7c9-4681-87ca-7075726f67d6" />
+</p>
+<p>
+
+In order to properly finish the confguration we must install HediSQL
+</p>
+<br />
+
+
+<p>
+<img width="629" alt="Image" src="https://github.com/user-attachments/assets/16202a32-6a9e-431e-84ac-bf3dd0403e40" />
+</p>
+<p>
+
+Finally, test 2
+</p>
+<br />
+
+<p>
+<img width="629" alt="Image" src="https://github.com/user-attachments/assets/e0b78adb-49ab-4758-80c9-1f16d6cdd25f" />
+</p>
+<p>
+
+Finally, test 3
+</p>
+<br />
+
+<p>
+<img width="629" alt="Image" src="https://github.com/user-attachments/assets/3d764527-d579-47c8-a6f9-199f0ef5d281" />
+</p>
+<p>
+
+Finally, test 4
+</p>
+<br />
+
+<p>
+<img width="629" alt="Image" src="https://github.com/user-attachments/assets/9ffbda05-2792-4fc5-9a4a-82ec99781b02" />
+</p>
+<p>
+
+Finally, test 5
 </p>
 <br />
