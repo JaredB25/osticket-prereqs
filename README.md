@@ -152,7 +152,7 @@ Assign the appropriate permissions to ost-config.php by right-clicking the file 
 <img width="306" alt="Image" src="https://github.com/user-attachments/assets/5e75fa4c-bb09-4489-b0b0-24439447ddbb" />
 </p>
 <p>
-Finally, proceed with the osTicket setup in your browser by clicking Continue. Assign a name to your helpdesk as desired, and select a default email address to receive customer-submitted ticket notifications. 
+Next, click Continue to continue setting up osTicket in your browser.  To receive notifications when a customer submits a ticket, choose a default email address and give your helpdesk whatever name you choose. 
 </p>
 <br />
 
@@ -161,7 +161,7 @@ Finally, proceed with the osTicket setup in your browser by clicking Continue. A
 </p>
 <p>
 
-In order to properly finish the database confguration we must first navigate to the osTicket-Installation-Files” folder to install HediSQL.
+For successful completion of the database configuration, we must install HediSQL first by navigating to the "osTicket-Installation-Files" folder.
 </p>
 <br />
 
@@ -171,7 +171,7 @@ In order to properly finish the database confguration we must first navigate to 
 </p>
 <p>
 
-Once properly instlled we will create a new seesion using the HediSQL application and connect to it. Afterwards we will create a new database called 'osTicket'.
+After it has been installed correctly, we will use the HediSQL application to start a new session and connect to it.  An entirely new database named 'osTicket' will then be created.
 </p>
 <br />
 
@@ -180,7 +180,7 @@ Once properly instlled we will create a new seesion using the HediSQL applicatio
 </p>
 <p>
 
-We can now go back to the osTicket set up page in the browser and enter the required information for MySQL database.
+We can now return to the browser's osTicket setup page and input the necessary data for the MySQL database.
 </p>
 <br />
 
@@ -189,7 +189,7 @@ We can now go back to the osTicket set up page in the browser and enter the requ
 </p>
 <p>
 
-With all the setup now complete we have succsesfully installed osTicket with no errors. 
+Now that everything is set up, we have successfully and free of errors installed osTicket. 
 </p>
 <br />
 
@@ -198,6 +198,6 @@ With all the setup now complete we have succsesfully installed osTicket with no 
 </p>
 <p>
 
-As a final check we will borse to the help dess login page at 'http://localhost/osTicket/scp/login.php'. Once we login the page will display this message with
+We shall visit the help desk login page at 'http://localhost/osTicket/scp/login.php' as a last measure.  The page will show one ticket with the notification that osTicket was successfully installed after we log in.
 </p>
 <br />
